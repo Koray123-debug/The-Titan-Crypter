@@ -8,7 +8,7 @@ The Titan Crypter
 
 ![photo_2025-04-14_07-06-14](https://github.com/user-attachments/assets/37dd62ef-12ca-4ef7-96bd-9c69a86511c6)
 
-
+f
 
 ![photo_2025-02-04_08-17-04](https://github.com/user-attachments/assets/4e8e7280-fd78-4087-8a08-6f30eb61d28f)
 ![photo_2025-02-19_05-22-12](https://github.com/user-attachments/assets/e000e1b2-1081-4849-8eca-046016060435)
