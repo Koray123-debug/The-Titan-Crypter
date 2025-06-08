@@ -3,22 +3,15 @@ The Titan Crypter
  ![image](https://github.com/user-attachments/assets/54a79e7c-7313-4467-ac39-b0c9d6dc7265)
 
 
-
-Support - Owner https://t.me/TitanAdminDevelopment
-Discord: @titanadmindevelopment
-Buy Now: https://shoppy.gg/@TITANSafety
-
 ![photo_2025-04-27_21-05-45](https://github.com/user-attachments/assets/7a83d23f-94a1-4835-92be-410cf263ffa7)
 
 
 ![photo_2025-04-14_07-06-14](https://github.com/user-attachments/assets/37dd62ef-12ca-4ef7-96bd-9c69a86511c6)
 
-f
+Support - Owner https://t.me/TitanAdminDevelopment
+Discord: @titanadmindevelopment
+Buy Now: https://shoppy.gg/@TITANSafety
 
-![photo_2025-02-04_08-17-04](https://github.com/user-attachments/assets/4e8e7280-fd78-4087-8a08-6f30eb61d28f)
-![photo_2025-02-19_05-22-12](https://github.com/user-attachments/assets/e000e1b2-1081-4849-8eca-046016060435)
-![photo_2025-01-22_08-09-15](https://github.com/user-attachments/assets/318f2b99-c10c-4c6f-9132-715dacd5596c)
-![photo_2024-12-18_07-16-42](https://github.com/user-attachments/assets/8614c139-c0c1-45f0-9bba-f524c8918488)
 
 
 We are excited to announce our new proof and update channels!  
@@ -76,6 +69,10 @@ Legal Use Only: This tool is intended for educational and authorized security re
 Beware of Scams: Fake Telegram accounts impersonating TITAN Crypter exist. Always verify official channels:
 Support: @TitanAdminDevelopment
 Proof of Concept: @TitanCrypterProof
+Support - Owner https://t.me/TitanAdminDevelopment
+Discord: @titanadmindevelopment
+Buy Now: https://shoppy.gg/@TITANSafety
+
 License & Pricing
-Subscription: $300/month (includes updates and priority support).
+Subscription: $80/month (includes updates and priority support).
 Terms: Usage bound to compliance with local laws and ethical guidelines
