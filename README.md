@@ -3,6 +3,11 @@ The Titan Crypter
  ![image](https://github.com/user-attachments/assets/54a79e7c-7313-4467-ac39-b0c9d6dc7265)
 
 
+
+Support - Owner https://t.me/TitanAdminDevelopment
+Discord: @titanadmindevelopment
+Buy Now: https://shoppy.gg/@TITANSafety
+
 ![photo_2025-04-27_21-05-45](https://github.com/user-attachments/assets/7a83d23f-94a1-4835-92be-410cf263ffa7)
 
 
